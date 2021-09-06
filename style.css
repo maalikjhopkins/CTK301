@@ -1,0 +1,46 @@
+/*This is my new stylsheet */
+/*
+p {
+  color: #ff0000;
+  background-color: #0000FF;
+}
+*/
+
+h1 {
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+
+a {
+ color: #ff0000;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #0000ff;
+ text-decoration: underline;
+}
+
+.spanstyle {
+ color: #00ff00;  
+}
+
+#divexample {
+ color: #0000ff;
+ background-color: #ffff00;
+}
+
+#specialid {
+  color: #00FF00;
+  background-color: #000000;
+}
+
+.specialp {
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #ff0000;
+}
