@@ -1,0 +1,50 @@
+a {
+  color: #00ff00;
+  text-decoration: none;
+}
+
+a:hover  {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+#divexample {
+  color: #000000;
+  background-color: #7276C4;
+}
+
+.specialp {
+  color: #ffffff;
+  background-color: #7276C4;
+}
+
+h2 {
+  color: #2630F2
+}
+
+.spanstyle {
+  color: #ffff00;
+}
+
+h3 {
+  color: #000000;
+  background-color: #ffff00;
+}
+
+h4 {
+  color: #ffff00;
+  background-color: #006001
+}
+
+main {
+  color: #FF0A0A
+}
+
+nav {
+  color: #000000;
+  background-color: #0AFF16
+}
+
+h5 {
+  color: #840AFF
+}
