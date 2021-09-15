@@ -1,0 +1,77 @@
+body {
+  background-image: url(Redbird.jpg)
+}
+
+h1 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h2 {
+  color: orange;
+  background-color: #38FF19;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h3 {
+  color: orange;
+  background-color: #FF1965;
+  font-style: italic;
+  font-weight: normal;
+}
+
+p {
+color: #00ffff;
+background-color: #BA19FF
+}
+
+a {
+  color: #ff0000;
+}
+
+a:hover {
+  color: #ffff00;
+}
+
+a:visited {
+  color: #00ff00;
+}
+
+#divexample {
+ color: #0000ff;
+ background-color: #ffff00;
+}
+
+.specialp {
+  color: #00FF00;
+  background-color: #00FFFF;
+}
+
+.spanstyle {
+ color: #00ff00;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #ff0000;
+}
+
+.customtext {
+  font-family: sans-serif;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+
+.imgbox {
+  border: 10px solid #000000;
+  padding: 5px;
+  background-color: #ffffff;
+}
