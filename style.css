@@ -1,46 +1,57 @@
-/*This is my new stylsheet */
-/*
-p {
-  color: #ff0000;
-  background-color: #0000FF;
+.specialp {
+  font-family: Helvetica, Arial;
+  color: white;
+  text-align: right;
+  padding-right: 900px;
+  margin-bottom: 150px;
 }
-*/
 
 h1 {
-  color: #FFFFFF;
-  background-color: #80CBB3;
+  font-family: Impact, Helvetica, Arial;
+  color: blue;
+  text-align: left;
+  font-weight: bold;
+  padding-left: 180px;
+  font-size: 125px;
+  margin-bottom: 500px;
 }
 
-a {
- color: #ff0000;
- text-decoration: none;
+.specialp3 {
+  padding-left: 200px;
 }
 
-a:hover {
- color: #0000ff;
- text-decoration: underline;
+.specialp2{
+  font-family: Helvetica, Arial;
+  color: blue;
+  text-align: center;
+  padding-right: 865px;
 }
 
 .spanstyle {
- color: #00ff00;  
+  font-family: Impact, Helvetica, Arial;
+  color: orange;
+  font-weight: bold;
 }
 
-#divexample {
- color: #0000ff;
- background-color: #ffff00;
+.spanstyle2 {
+  font-size: 10px;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
 }
 
-#specialid {
-  color: #00FF00;
-  background-color: #000000;
+a:hover {
+  color: orange;
+  text-decoration: underline;
 }
 
-.specialp {
-  color: #00FF00;
-  background-color: #FFFFFF;
+body {
+  background-image: url(Soul.png);
+  background-repeat: no-repeat;
 }
 
-footer {
-  color: #ffffff;
-  background-color: #ff0000;
+img {
+  padding-left: 225px;
 }
